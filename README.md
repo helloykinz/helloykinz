@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @helloykinz
-- 👀 I’m interested in Roblox game development
-- 🌱 I’m currently learning Lua and C++
+- 👀 I’m interested in ~~Roblox game development~~ nothing
+- 🌱 I’m currently learning ~~Lua~~ Javascript and C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me [Vkontakte](https://vk.com/helloykin)
 
 <!---
 helloykinz/helloykinz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
